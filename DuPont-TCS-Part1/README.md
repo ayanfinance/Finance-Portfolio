@@ -5,7 +5,7 @@
 **What’s included:**  
 - `TCS - DuPont Analysis(Part-1).pdf` — full report (executive summary + detailed calculations)  
 
-**Key findings (short):** 
+**Key findings (in short):** 
 
 - “ROE rose strongly from 36.06% (FY19) → 52.42% (FY25) → showing consistent shareholder value creation.; 
 
