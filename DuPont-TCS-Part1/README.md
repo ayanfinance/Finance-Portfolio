@@ -5,7 +5,10 @@
 **What’s included:**  
 - `TCS - DuPont Analysis(Part-1).pdf` — full report (executive summary + detailed calculations)  
 
-**Key findings (short):** Summary insight lines — e.g., “ROE rose strongly from 36.06% (FY19) → 52.42% (FY25) → showing consistent shareholder value creation.; Net Profit Margin stayed stable at ~19–21%, with only minor fluctuations.; ROA improved from 28.74% (FY19) → 31.93% (FY25), meaning TCS generated more profit per unit of assets.
+**Key findings (short):** Summary insight lines — e.g., 
+“ROE rose strongly from 36.06% (FY19) → 52.42% (FY25) → showing consistent shareholder value creation.; 
+Net Profit Margin stayed stable at ~19–21%, with only minor fluctuations.; 
+ROA improved from 28.74% (FY19) → 31.93% (FY25), meaning TCS generated more profit per unit of assets.
 ”
 
 **Skills demonstrated:** DuPont Analysis · Financial Statement Analysis · Ratio Interpretation · Excel modelling
