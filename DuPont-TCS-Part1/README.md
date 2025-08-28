@@ -5,7 +5,8 @@
 **What’s included:**  
 - `TCS - DuPont Analysis(Part-1).pdf` — full report (executive summary + detailed calculations)  
 
-**Key findings (short):** Summary insight lines — e.g., 
+**Key findings (short):** 
+
 “ROE rose strongly from 36.06% (FY19) → 52.42% (FY25) → showing consistent shareholder value creation.; 
 
 Net Profit Margin stayed stable at ~19–21%, with only minor fluctuations.; 
