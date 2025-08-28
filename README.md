@@ -3,7 +3,7 @@
 A curated collection of finance projects demonstrating applied financial analysis, models, and decision-making. Projects include DuPont analysis, cost of capital models, valuation work and more. This portfolio is updated as new projects are completed.
 
 ## Current projects
-- [TCS - DuPont Analysis (Part 1)](DuPont-TCS-Part1/TCS-DuPont-Analysis-Part1.pdf) — ROE decomposition (DuPont) with key findings summary
+- [[ TCS - DuPont Analysis (Part 1) ](DuPont-TCS-Part1/TCS-DuPont-Analysis-Part1.pdf) — ROE decomposition (DuPont) with key findings summary
   
 ## Upcoming
 - Comparative DuPont: TCS vs HUL (Part 2) — coming soon
