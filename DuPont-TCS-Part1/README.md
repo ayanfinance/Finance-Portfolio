@@ -14,6 +14,10 @@
 - ROA improved from 28.74% (FY19) → 31.93% (FY25), meaning TCS generated more profit per unit of assets.
 ”
 
-**Skills demonstrated:** DuPont Analysis · Financial Statement Analysis · Ratio Interpretation · Excel modelling
+**Skills demonstrated:** 
+- DuPont Analysis
+- Financial Statement Analysis
+- Ratio Interpretation
+- Excel modelling
 
 **Link to report:** `TCS - DuPont Analysis(Part-1).pdf`
