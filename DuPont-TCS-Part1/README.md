@@ -17,4 +17,4 @@
 - Ratio Analysis & Interpretation
 - Excel Financial Modelling
 
-**Link to report:** `TCS-DuPont-Analysis-Part1.pdf`
+**Link to report:** [ TCS - DuPont Analysis (Part 1) ](DuPont-TCS-Part1/TCS-DuPont-Analysis-Part1.pdf)
