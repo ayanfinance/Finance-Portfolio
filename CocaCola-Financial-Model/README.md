@@ -6,7 +6,7 @@ Build a complete **3-Statement Financial Model** (Income Statement, Balance Shee
 ---
 
 ### What’s included:
-- **CocaCola-Financial-Model-and-DCF.pdf** — full report (assumptions, projections, valuation summary, and sensitivity analysis)
+- **CocaCola-Financial-Model-and-DCF.pdf** — full report (assumptions, projections and valuation)
 
 ---
 
