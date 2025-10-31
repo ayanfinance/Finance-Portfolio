@@ -6,7 +6,7 @@ A curated collection of professional finance projects showcasing applied financi
 
 ## 📂 Current Projects
 
-- [**Coca-Cola Co — Full Financial Model & DCF Valuation**](CocaCola-Financial-Model/CocaCola-Financial-Model-and-DCF.pdf)  
+- [**Coca-Cola Co — Full Financial Model & DCF Valuation**](CocaCola-Financial-Model/CocaCola-Financial-Model-and-DCF.pdf)
   A complete integrated financial model for The Coca-Cola Company including revenue forecasting, financial statement projections, and intrinsic valuation using the Discounted Cash Flow (DCF) method.
 
 - [**TCS — DuPont Analysis (Part 1)**](DuPont-TCS-Part1/TCS-DuPont-Analysis-Part1.pdf)  
