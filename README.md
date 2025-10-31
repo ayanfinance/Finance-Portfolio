@@ -14,11 +14,17 @@ A curated collection of professional finance projects showcasing applied financi
 
 ---
 
-## 🧩 Upcoming Projects  
+## 🚧 Upcoming Projects
 
-- Reliance Industries — Financial Modeling & Valuation  
-- ITC Ltd — Cost Structure and Margin Analysis  
-- Infosys — Trend and Ratio Analysis  
+1. **LBO Model (Stable Cash Flow Business, e.g., Domino’s Pizza)**  
+   Advanced leveraged buyout model covering capital structure optimization, IRR calculation, and debt repayment waterfall.  
+
+2. **Equity Research Report + Stock Pitch (High-Growth Company, e.g., NVIDIA)**  
+   A research-based valuation project analyzing business fundamentals, competitive positioning, and target price with an investor-style presentation.  
+
+3. **Forensic Accounting Case Study (Red Flags in a Real Fraud, e.g., Wirecard)**  
+   Investigative financial analysis highlighting manipulation patterns, accounting red flags, and lessons from corporate fraud detection.
+
 
 ---
 
