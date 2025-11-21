@@ -30,12 +30,12 @@ A curated collection of professional finance projects showcasing applied financi
 
 ---
 
-## 📊 Tools & Skills  
+## 🧰 Tools & Skills
 
-- **Excel & Financial Modeling:** Forecasting, Valuation, Scenario Analysis, Ratio Analysis  
+- **Excel & Financial Modeling:** Forecasting, 3-Statement Modeling, Scenario Analysis, Ratio Analysis  
 - **Valuation Techniques:** DCF, DuPont, Comparable Company Analysis  
-- **Other Skills:** Corporate Finance, Accounting, Report Presentation  
+- **Risk Modelling:** Historical VaR, Monte Carlo Simulation VaR, Return Distribution Analysis  
+- **Other Skills:** Corporate Finance, Accounting, Report Presentation
 
----
 
 📄 *This repository serves as an evolving portfolio highlighting core finance competencies and practical modeling experience.*
