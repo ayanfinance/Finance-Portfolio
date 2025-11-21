@@ -6,6 +6,8 @@ A curated collection of professional finance projects showcasing applied financi
 
 ## 📁 Current Projects  
 
+- [**Value at Risk (JPM)**](Value-at-Risk-JPM/Value-at-Risk-JPM.pdf) — Historical & Monte Carlo VaR analysis using real JPM return data.
+
 - [**Coca-Cola Co — Full Financial Model & DCF Valuation**](CocaCola-Financial-Model/CocaCola-Financial-Model-and-DCF.pdf)  
   A complete integrated financial model for The Coca-Cola Company, including revenue forecasting, financial statement projections, and intrinsic valuation using the Discounted Cash Flow (DCF) method.  
 
